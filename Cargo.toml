@@ -3,3 +3,7 @@
 name = "rust-dsp"
 version = "0.1.0"
 authors = [ "nick@conky.org" ]
+
+[dependencies.glfw]
+
+git = "https://github.com/bjz/glfw-rs"
